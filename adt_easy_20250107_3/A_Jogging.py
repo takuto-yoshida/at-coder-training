@@ -7,7 +7,7 @@ https://atcoder.jp/contests/adt_easy_20250107_3/tasks/abc249_a
 
 def calculate_distance(movetime:int,velocity:int,resttime:int,time:int)->int:
 
-    laptime = movetime + velocity + resttime
+    laptime = movetime + resttime
     num_of_laps =  int(time // laptime)
     time_remaining = int(time % laptime)
     
