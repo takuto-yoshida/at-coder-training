@@ -7,3 +7,4 @@ https://atcoder.jp/contests/adt_easy_20250114_3/
 
 # 結果
 
+3問。40分ほど。
